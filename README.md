@@ -1,5 +1,5 @@
 # OP25
-Branch of OP25 enabling UDP packet output of 25 Data for Wireshark. 
+Branch of OP25 enabling UDP packet output of 25 Data for Wireshark. Confirmed working on Ubuntu 14.04
 
 more info here: http://op25.osmocom.org/trac/wiki
 
