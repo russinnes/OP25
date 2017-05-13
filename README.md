@@ -1,5 +1,5 @@
 # OP25
-Branch of OP25 enabling UDP packet output of P25 Data for monitoring in Wireshark. Confirmed working on Ubuntu 14.04
+Branch of OP25 enabling UDP packet output of APCO P-25 Data for monitoring in Wireshark. Confirmed working on Ubuntu 14.04
 
 more info here: http://op25.osmocom.org/trac/wiki
 
